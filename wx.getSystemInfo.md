@@ -1,6 +1,6 @@
 # code
 
-```
+```javascript
 wx.getSystemInfo({
   success (res) {
     console.log(res)
@@ -10,6 +10,7 @@ wx.getSystemInfo({
 
 # result
 
+```
 SDKVersion: "2.11.0"
 batteryLevel: 100
 benchmarkLevel: 1
@@ -30,3 +31,4 @@ system: "iOS 10.0.1"
 version: "7.0.4"
 windowHeight: 724
 windowWidth: 375
+```
