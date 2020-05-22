@@ -1,10 +1,12 @@
 # code
 
-  wx.getSystemInfo({
-    success (res) {
-      console.log(res)
-    }
-  })
+```
+wx.getSystemInfo({
+  success (res) {
+    console.log(res)
+  }
+})
+```
 
 # result
 
